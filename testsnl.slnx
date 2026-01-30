@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/lib/" />
+  <Folder Name="/src/" />
+  <Folder Name="/src/App.Core/">
+    <Project Path="src/App.Core/App.Core.csproj" Id="5f636f48-8630-42c9-9d2e-04a54c8509c8" />
+  </Folder>
+  <Folder Name="/src/App.Helpers/">
+    <Project Path="src/App.Helpers/App.Helpers.csproj" Id="35c85aa7-3686-41ad-85f1-61941dbb2f51" />
+  </Folder>
+  <Folder Name="/src/App.Models/">
+    <Project Path="src/App.Models/App.Models.csproj" Id="6dd4b929-120a-4bed-8d9d-7774f4586a99" />
+  </Folder>
+  <Folder Name="/src/App.Repositories/">
+    <Project Path="src/App.Repositories/App.Repositories.csproj" Id="00372884-2ae9-46e8-86cb-2115e917203a" />
+  </Folder>
+  <Folder Name="/src/App.Services/">
+    <Project Path="src/App.Services/App.Services.csproj" Id="49412934-2297-471e-805a-b03a7ca2a61d" />
+  </Folder>
+  <Folder Name="/src/App.Web/">
+    <Project Path="src/App.Web/App.Web.csproj" Id="ec294265-372e-4259-b9a3-4bd888ad82dd" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
