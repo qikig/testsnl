@@ -29,26 +29,49 @@ Core：
 #项目结构
 
 MyApp/
+
 ├── src/
+
 │   ├── MyApp.Web/
+
 │   │   ├── Controllers/
+
 │   │   ├── Models/
+
 │   │   ├── Views/
+
 │   │   ├── wwwroot/
+
 │   │   ├── appsettings.json
+
 │   │   ├── Program.cs
+
 │   │   └── Startup.cs
+
 │   └── MyApp.Core/
+
 │   └── MyApp.Models/
+
 │   └── MyApp.Services/
+
 │   └── MyApp.Repositories/
+
     └── MyApp.Helpers/
+    
 ├── test/
+
 │   └── MyApp.Tests/
+
 │       ├── UnitTests/
+
 │       └── IntegrationTests/
+
 ├── lib/ (或通过 NuGet 管理)
+
 ├── .gitignore
+
 ├── README.md
+
 ├── global.json
+
 └── Dockerfile (如有需要)
